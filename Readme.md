@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shankar Rai</h1>
-<h3 align="center"> Data analyst and UI/UX designer from Nepal</h3>
+<h3 align="center"> Electronics engineer and UI/UX designer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10gitshankar&label=Profile%20views&color=0e75b6&style=flat" alt="10gitshankar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=10gitshankar" alt="10gitshankar" /></a> </p>
 
-- 🌱 I’m currently learning **React,Next.js,Figma,Python,Pycharm,Numpy,Matplotlib,scikit-learn,AI/ML**
+- 🌱 I’m currently learning **Figma,Python,Pycharm,Numpy,Matplotlib,scikit-learn,AI/ML**
 
-- 💬 Ask me about **React,AI,UI/UX**
+- 💬 Ask me about **Electronics,AI,UI/UX**
 
 - 📫 How to reach me **raishankar2060@gmail.com**
 
